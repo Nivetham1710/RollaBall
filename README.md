@@ -1,5 +1,6 @@
 # RollaBall
 ## Aim:
+To Roll a Ball using C# program in unity.
 ## Algorithm:
 1. File -> Scene -> Select the scene -> Save as-> New folder(Scenes)-> File name (MiniGame)
 
